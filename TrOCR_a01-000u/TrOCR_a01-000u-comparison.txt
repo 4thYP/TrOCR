@@ -1,0 +1,41 @@
+TrOCR COMPREHENSIVE ACCURACY ANALYSIS REPORT
+================================================================================
+
+CHARACTER ERROR RATE (CER):
+--------------------------------------------------
+Page 1: CER = 98.43%, Errors: 251 (S:0, D:251, I:0)
+
+WORD ERROR RATE (WER):
+--------------------------------------------------
+Page 1: WER = 100.00%, Errors: 50 (S:1, D:49, I:0)
+
+BLEU SCORES (n-gram precision):
+--------------------------------------------------
+Page 1: BLEU = 0.00%
+
+ROUGE SCORES (n-gram recall):
+--------------------------------------------------
+Page 1: ROUGE-1 = 0.00%, ROUGE-2 = 0.00%, ROUGE-L = 0.00%
+
+BERTSCORES (semantic similarity):
+--------------------------------------------------
+Page 1: BERTScore = 79.20%
+
+OVERALL RESULTS:
+--------------------------------------------------
+Character Error Rate (CER) = 98.43%
+Word Error Rate (WER) = 100.00%
+BLEU Score = 0.00%
+ROUGE-1 = 0.00%
+ROUGE-2 = 0.00%
+ROUGE-L = 0.00%
+BERTScore = 79.20%
+Total Character Errors: 251 chars (S:0, D:251, I:0)Total Word Errors: 50 words (S:1, D:49, I:0)Total characters in reference: 255
+Total words in reference: 50
+
+WORD-LEVEL DIFFERENCES
+================================================================================
+
+--- Page 1 Differences ---
+CER: 98.43%, WER: 100.00%
+[SUB: a move to stop mr. gaitskell from nominating any more labour life peers is to be made at a meeting of labour m ps tomorrow. mr. michael foot has put down a resolution on the subject and he is to be backed by mr. will griffiths, mp for manchester exchange. -> item]
