@@ -1,0 +1,41 @@
+TrOCR COMPREHENSIVE ACCURACY ANALYSIS REPORT
+================================================================================
+
+CHARACTER ERROR RATE (CER):
+--------------------------------------------------
+Page 1: CER = 0.00%, Errors: 0 (S:0, D:0, I:0)
+
+WORD ERROR RATE (WER):
+--------------------------------------------------
+Page 1: WER = 0.00%, Errors: 0 (S:0, D:0, I:0)
+
+BLEU SCORES (n-gram precision):
+--------------------------------------------------
+Page 1: BLEU = 0.00%
+
+ROUGE SCORES (n-gram recall):
+--------------------------------------------------
+Page 1: ROUGE-1 = 0.00%, ROUGE-2 = 0.00%, ROUGE-L = 0.00%
+
+BERTSCORES (semantic similarity):
+--------------------------------------------------
+Page 1: BERTScore = 0.00%
+
+OVERALL RESULTS:
+--------------------------------------------------
+Character Error Rate (CER) = 0.00%
+Word Error Rate (WER) = 0.00%
+BLEU Score = 0.00%
+ROUGE-1 = 0.00%
+ROUGE-2 = 0.00%
+ROUGE-L = 0.00%
+BERTScore = 0.00%
+Total Character Errors: 0 chars (S:0, D:0, I:0)Total Word Errors: 0 words (S:0, D:0, I:0)Total characters in reference: 0
+Total words in reference: 0
+
+WORD-LEVEL DIFFERENCES
+================================================================================
+
+--- Page 1 Differences ---
+CER: 0.00%, WER: 0.00%
+[INS: inline]
