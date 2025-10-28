@@ -1,0 +1,41 @@
+TrOCR COMPREHENSIVE ACCURACY ANALYSIS REPORT
+================================================================================
+
+CHARACTER ERROR RATE (CER):
+--------------------------------------------------
+Page 1: CER = 98.65%, Errors: 366 (S:0, D:366, I:0)
+
+WORD ERROR RATE (WER):
+--------------------------------------------------
+Page 1: WER = 100.00%, Errors: 62 (S:1, D:61, I:0)
+
+BLEU SCORES (n-gram precision):
+--------------------------------------------------
+Page 1: BLEU = 0.00%
+
+ROUGE SCORES (n-gram recall):
+--------------------------------------------------
+Page 1: ROUGE-1 = 0.00%, ROUGE-2 = 0.00%, ROUGE-L = 0.00%
+
+BERTSCORES (semantic similarity):
+--------------------------------------------------
+Page 1: BERTScore = 75.29%
+
+OVERALL RESULTS:
+--------------------------------------------------
+Character Error Rate (CER) = 98.65%
+Word Error Rate (WER) = 100.00%
+BLEU Score = 0.00%
+ROUGE-1 = 0.00%
+ROUGE-2 = 0.00%
+ROUGE-L = 0.00%
+BERTScore = 75.29%
+Total Character Errors: 366 chars (S:0, D:366, I:0)Total Word Errors: 62 words (S:1, D:61, I:0)Total characters in reference: 371
+Total words in reference: 62
+
+WORD-LEVEL DIFFERENCES
+================================================================================
+
+--- Page 1 Differences ---
+CER: 98.65%, WER: 100.00%
+[SUB: since 1958, 13 labour life peers and peeresses have been created. most labour sentiment would still favour the abolition of the house of lords, but while it remains labour has to have an adequate number of members. the two rival african nationalist parties of northern rhodesia have agreed to get together to face the challenge from sir roy welensky, the federal premier. -> shank]
