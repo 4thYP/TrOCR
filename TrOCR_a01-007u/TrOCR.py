@@ -338,9 +338,9 @@ def main():
 
     # Save OCR results
     full_ocr_text = "".join(f"\n\n--- Page {i} ---\n{t}" for i, t in enumerate(ocr_pages, 1))
-    with open("a01-00_trocr.txt", "w", encoding="utf-8") as f:
+    with open("a01-007u_trocr.txt", "w", encoding="utf-8") as f:
         f.write(full_ocr_text)
-    print("\nSaved full TrOCR results to 15_trocr.txt")
+    print("\nSaved full TrOCR results to a01-007u_trocr.txt")
 
     print("\n" + "="*80)
     print("TrOCR ACCURACY ANALYSIS REPORT")
@@ -424,7 +424,7 @@ def main():
         print(diff_text[:1000] + "..." if len(diff_text) > 1000 else diff_text)
 
     # Save detailed comparison to file
-    with open("trocr_comprehensive_report.txt", "w", encoding="utf-8") as f:
+    with open("a01-007u_trocr_comprehensive_report.txt", "w", encoding="utf-8") as f:
         f.write("TrOCR COMPREHENSIVE ACCURACY ANALYSIS REPORT\n")
         f.write("="*80 + "\n")
 
@@ -475,7 +475,7 @@ def main():
             diff = highlight_word_differences(gt_clean, preprocess_text(ocr_pages[i-1]))
             f.write(diff + "\n")
 
-    print("\nSaved detailed comparison report to trocr_comprehensive_report.txt")
+    print("\nSaved detailed comparison report to a01-007u_trocr_comprehensive_report.txt")
 
 if __name__ == "__main__":
     main()
