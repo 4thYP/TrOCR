@@ -1,0 +1,24 @@
+# requirements for the TrOCR notebook and related evaluation scripts
+# These packages are available on PyPI and can be installed via:
+#   python -m pip install -r requirements.txt
+# On Windows, activate your virtualenv first (e.g. newvenv\Scripts\Activate.ps1)
+
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+Pillow>=9.0.0
+PyMuPDF>=1.22.0  # provides `fitz`
+python-docx>=0.8.11  # provides `docx`
+numpy>=1.24.0
+
+nltk>=3.8.1
+rouge-score>=0.1.2
+bert-score>=0.3.11
+sentencepiece>=0.1.98
+tqdm>=4.65.0
+
+# Optional / helpful utilities
+tokenizers>=0.14.0
+# End of file

@@ -1,0 +1,21 @@
+
+==================== TrOCR Comprehensive Report ====================
+
+📄 PDF File: a01-011u_scannedpaper.pdf
+🧾 Ground Truth File: a01-011u_groundtruth.docx
+🗂️ OCR Output File: a01-011u_trocr_output.txt
+
+==================== METRIC SCORES ====================
+Character Error Rate (CER): 98.96 %
+Word Error Rate (WER): 100.00 %
+BLEU Error: 0.00 %
+ROUGE-1: 0.00 %
+ROUGE-2: 0.00 %
+ROUGE-L: 0.00 %
+BERTScore Error: 78.21 %
+
+==================== NOTES ====================
+- Model: TrOCR (Microsoft)
+- Evaluation performed on aligned scanned paper dataset
+- Generated automatically in Colab environment
+====================================================================
