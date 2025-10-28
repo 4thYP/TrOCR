@@ -1,0 +1,53 @@
+OCR ACCURACY REPORT (TrOCR - Handwritten)
+============================================================
+"
+life Peers and
+1958 , 13 Labour
+Since
+five . "
+F 84
+' 25
+Peeresses have been created . Most Labour
+BOLD 1053
+sentiment would still favour the abolition
+P. 5
+'
+P.P.
+of the House of Lords , but while it remains
+"
+'
+Boysgate
+'
+Labour has to have an adequate number
+E. 5
+"
+t.
+African
+the
+two rival .
+of members .
+E.000
+Porterfield Pennsylvania
+E.25
+Nationalist Parties of Northern Rhodesia
+'
+t.
+E.25
+0-000000
+to get together to face
+have agreed
+'
+the challenge from Sir Roy Welensky ,
+E.C.
+2 Premier .
+'
+the
+Federal .
+P. P.
+P. 5
+P.P.P.P.P.P.P.P.P.P.
+r. 5 .
+
+============================================================
+Ground Truth:
+Since 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sentiment would still favour the abolition of the House of Lords, but while it remains Labour has to have an adequate number of members. THE two rival African Nationalist Parties of Northern Rhodesia have agreed to get together to face the challenge from Sir Roy Welensky, the Federal Premier.
