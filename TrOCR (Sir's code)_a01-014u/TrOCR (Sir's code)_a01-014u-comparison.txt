@@ -1,0 +1,45 @@
+OCR ACCURACY REPORT (TrOCR - Handwritten)
+============================================================
+0 0 0 0 0
+Party is
+United Federal
+Roy s
+Sir
+talks on the
+boycotting .
+London .
+the
+Mr. Nkumbula
+Protectorate's
+said
+future .
+We want to discuss what to
+last night : "
+2 1 .
+if the
+British
+demonstrations .
+do
+Roy's
+0 1
+chief .
+Sir
+Yesterday
+aide , Mr.
+telephoned his chief
+Greenfield ,
+Julius
+talk with Mr. Macmillan
+his
+a report .
+on
+at.
+chequers .
+
+============================================================
+Ground Truth:
+Sir Roy’s United Federal Party is boycotting the London talks on the Protectorate s
+future. Said Mr. Nkumbula last night: ”We want to discuss what to do if the British
+Government gives in to Sir Roy and the talks fall through. There are bound to be
+demonstrations.” Yesterday Sir Roy’s chief aide, Mr. Julius Greenfield, telephoned
+his chief a report on his talks with Mr. Macmillan at Chequers.
