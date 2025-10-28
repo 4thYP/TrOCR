@@ -1,0 +1,41 @@
+TrOCR COMPREHENSIVE ACCURACY ANALYSIS REPORT
+================================================================================
+
+CHARACTER ERROR RATE (CER):
+--------------------------------------------------
+Page 1: CER = 98.72%, Errors: 386 (S:0, D:386, I:0)
+
+WORD ERROR RATE (WER):
+--------------------------------------------------
+Page 1: WER = 100.00%, Errors: 68 (S:1, D:67, I:0)
+
+BLEU SCORES (n-gram precision):
+--------------------------------------------------
+Page 1: BLEU = 0.00%
+
+ROUGE SCORES (n-gram recall):
+--------------------------------------------------
+Page 1: ROUGE-1 = 0.00%, ROUGE-2 = 0.00%, ROUGE-L = 0.00%
+
+BERTSCORES (semantic similarity):
+--------------------------------------------------
+Page 1: BERTScore = 78.04%
+
+OVERALL RESULTS:
+--------------------------------------------------
+Character Error Rate (CER) = 98.72%
+Word Error Rate (WER) = 100.00%
+BLEU Score = 0.00%
+ROUGE-1 = 0.00%
+ROUGE-2 = 0.00%
+ROUGE-L = 0.00%
+BERTScore = 78.04%
+Total Character Errors: 386 chars (S:0, D:386, I:0)Total Word Errors: 68 words (S:1, D:67, I:0)Total characters in reference: 391
+Total words in reference: 68
+
+WORD-LEVEL DIFFERENCES
+================================================================================
+
+--- Page 1 Differences ---
+CER: 98.72%, WER: 100.00%
+[SUB: sir roys united federal party is boycotting the london talks on the protectorate s future. said mr. nkumbula last night: we want to discuss what to do if the british government gives in to sir roy and the talks fall through. there are bound to be demonstrations. yesterday sir roys chief aide, mr. julius greenfield, telephoned his chief a report on his talks with mr. macmillan at chequers. -> items]
